@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'zeeoneofficial', // Your GitHub org/user name. (Required)
+    username: 'rohmanzx', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,16 +11,16 @@ const config = {
     },
   },
   social: {
-    twitter: 'Zeeoneofc',
-    instagram: 'Zeeoneofc',
-    dev: 'Zeeoneofc',
-    website: 'https://api.zeeoneofc.my.id',
-    phone: '+62887435047326',
-    email: 'zeeoneofc@yahoo.com',
+    twitter: 'Gk da🗿',
+    instagram:  'rohmanzx_',
+    dev: 'RohmanZX',
+    website: 'Gkda 🗿',
+    phone: '',
+    email: 'contacts@rohmanzx.my.id',
   },
   resume: {
     fileUrl:
-      'https://github.zeeoneofc.my.id', // Empty fileUrl will hide the `Download Resume` button.
+      'akungithubwns.github.io', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Copas',
